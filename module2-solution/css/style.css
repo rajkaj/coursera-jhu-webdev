@@ -37,7 +37,7 @@ section {
 	position: relative;
 }
 
-#Chicken {
+#Biryani {
 	width: 30%;
 	padding: 5px;
 	border: 1px solid black;
@@ -51,7 +51,7 @@ section {
 	background-color: #dec2ab;
 }
 
-#Beef {
+#Keema {
 	width: 30%;
 	padding: 5px;
 	border: 1px solid black;
@@ -65,7 +65,7 @@ section {
 	background-color: #c8bce8;
 }
 
-#Sushi {
+#Dal {
 	width: 30%;
 	padding: 5px;
 	border: 1px solid black;
