@@ -48,7 +48,7 @@ section {
 	font-family: cursive;
 	font-weight: bold;
 	font-size: 125%;
-	background-color: floralwhite;
+	background-color: #dec2ab;
 }
 
 #Beef {
@@ -62,7 +62,7 @@ section {
 	font-family: cursive;
 	font-weight: bold;
 	font-size: 125%;
-	background-color: floralwhite;
+	background-color: #c8bce8;
 }
 
 #Sushi {
@@ -76,7 +76,7 @@ section {
 	font-family: cursive;
 	font-weight: bold;
 	font-size: 125%;
-	background-color: floralwhite;
+	background-color: #f1f2c2;
 }
 
 .row {
