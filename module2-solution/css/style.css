@@ -4,6 +4,7 @@
 
 h1 {
 	font-family: cursive;
+	font-size: 175%;
 	color:  #000000;
 	text-align: center;
 }
@@ -34,4 +35,46 @@ section {
 	font-family: cursive;
 	color: #000000;
 	position: relative;
+}
+
+#Chicken {
+	width: 30%;
+	padding: 5px;
+	border: 1px #000000;
+	margin-left: 70%;
+	margin-bottom: 0;
+	margin-top: 0;
+	text-align: center;
+	font-family: cursive;
+	font-weight: bold;
+	font-size: 125%;
+	background-color: floralwhite;
+}
+
+#Beef {
+	width: 30%;
+	padding: 5px;
+	border: 1px #000000;
+	margin-left: 70%;
+	margin-bottom: 0;
+	margin-top: 0;
+	text-align: center;
+	font-family: cursive;
+	font-weight: bold;
+	font-size: 125%;
+	background-color: floralwhite;
+}
+
+#Sushi {
+	width: 30%;
+	padding: 5px;
+	border: 1px #000000;
+	margin-left: 70%;
+	margin-bottom: 0;
+	margin-top: 0;
+	text-align: center;
+	font-family: cursive;
+	font-weight: bold;
+	font-size: 125%;
+	background-color: floralwhite;
 }
